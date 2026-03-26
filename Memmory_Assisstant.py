@@ -15,7 +15,7 @@ from openai import OpenAI
 
 # ── Groq client ────────────────────────────────────────────────────────────────
 client = OpenAI(
-    api_key="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",
+    api_key="Groq_Api",
     base_url="https://api.groq.com/openai/v1",
 )
 
